@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Payact.github.io</id>
     <title>Cuihuaer</title>
-    <updated>2022-04-11T11:11:49.723Z</updated>
+    <updated>2022-04-11T13:03:36.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Payact.github.io"/>
     <link rel="self" href="https://Payact.github.io/atom.xml"/>
@@ -85,11 +85,11 @@
 <li>读了一本213万字的烂小说，写得太烂了太烂了太烂了。<br>
 原来人物有血有肉是很高的评价了。<br>
  </li>
-<li>不开心不开心不开心。</li>
+<li>房又塌了， 网站又出问题了。github同步有问题，好那换成coding吧。coding不支持静态网站托管了，那就另外挪到腾讯云吧。什么，托管在腾讯云另外绑定域名的话是得有备案的才行，这后缀根本就不能备案啊，再说备案的话也不能有评论区啊，评论区？我的评论区怎么不见了？什么？leancloud 国际版又又又下线了？本来valine就半残不残的了……<br>
+原本以为最简单省事儿的方式没想到是个大大大坑。<br>
+吐血，不搞了，就这样吧。当本地编辑器得了。<br>
+ </li>
 </ul>
-<center>
-<figure data-type="image" tabindex="1"><img src="https://Payact.github.io/post-images/1649649127459.jpeg" alt="" loading="lazy"></figure>
-<p> </p>
 ]]></content>
     </entry>
     <entry>
@@ -119,8 +119,6 @@
 <li>欲望不该囤积。收藏列表和购物车，以及一些目标清单，该是随用随清的。要么解决，要么丢弃。<br>
 它不该满溢出当下，然后只能将溢出的那部分置放到未来。人其实变化很快，下一刻的自己不会是此刻的自己，会有不同的喜好，没理由也很难对此刻的自己负责。又何必今日放明日，明日放后日，这月放下月，清单越列越长，让自己时时刻刻有未完成之感呢。<br>
 只拥有当下，仔细感受每一个此刻，就很舒心自在。<br>
- </li>
-<li>房又塌了， 网站又出问题了。可是距离把它支棱起来已经大半年了，真的想不起来什么是什么了。唉，搞不动了，就这样吧。<br>
  </li>
 </ul>
 ]]></content>
@@ -153,7 +151,11 @@
 为啥老要揪着原生家庭不放呢。只是觉得，人本身就一直是被经历所塑造的。此刻当下的自己，是过去所经历的一切时光的立体呈现，那些美好的品质，与不喜的缺失，都是过去的经历所赋予的。并且我们一直在路上，一段亲密关系甚至放大到所有的人际交往，总都带来甜蜜，也给予创伤。然后为着疗合伤口，或求己，或求人……寻寻觅觅，终其一生。<br>
 当然，我们也会疗愈路过的人，与此同时不可避免地，也伤害到他们。<br>
  </li>
+<li>不开心不开心不开心。</li>
 </ul>
+<center>
+<figure data-type="image" tabindex="1"><img src="https://Payact.github.io/post-images/1649649127459.jpeg" alt="" loading="lazy"></figure>
+<p> </p>
 ]]></content>
     </entry>
     <entry>
@@ -181,7 +183,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[勇敢与钻石]]></title>
+        <title type="html"><![CDATA[七月]]></title>
         <id>https://Payact.github.io/post/qi-yue/</id>
         <link href="https://Payact.github.io/post/qi-yue/">
         </link>
@@ -198,7 +200,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[屎壳郎的日记]]></title>
+        <title type="html"><![CDATA[六月]]></title>
         <id>https://Payact.github.io/post/liu-yue/</id>
         <link href="https://Payact.github.io/post/liu-yue/">
         </link>
