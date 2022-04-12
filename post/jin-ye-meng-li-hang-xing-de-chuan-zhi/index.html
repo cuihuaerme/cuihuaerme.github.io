@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-     <meta http-equiv="content-type" content="text/html; charset=utf-8">
+     <meta http-equiv="content-type" content="text/html; charset=utf-8"><script src="//unpkg.com/valine@1.4.4/dist/Valine.min.js"></script>
  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta content="yes" name="apple-mobile-web-app-capable" />
   <meta content="black" name="apple-mobile-web-app-status-bar-style" />
@@ -109,22 +109,14 @@
             </a>
           </p>
         
-<script src=//cloud.panjunwen.com/Valine.min.js type=text/javascript></script>
-<div id="comment"></div>
-<span id="comment-count"></span>
-<script>
-    comment_el = '#comment';
-    comment_count_el = 'span.comment-count';
-    new Valine({
-        el: comment_el,		       // 评论区元素（要求div）
-        count_el: comment_count_el,    // 评论计数元素（要求span）
-	lang: 'zh-cn',
-        emoticon_url: 'https://cloud.panjunwen.com/alu',  //https://cdn.jsdelivr.net/gh/track23/blog-static@latest/alu
-  emoticon_list: ["小眼睛.png","呲牙.png","皱眉.png","得意.png","惊喜.png","期待.png","亲亲.png","献花.png","赞一个.png","欢呼.png","无所谓.png","坐等.png","鼓掌.png","击掌.png","吐舌.png","脸红.png","害羞.png","无奈.png","看不见.png","尴尬.png","狂汗.png","喜极而泣.png","哭泣.png","不高兴.png","不说话.png","想一想.png","抽烟.png","抠鼻.png","投降.png","肿包.png","长草.png","不出所料.png","深思.png","邪恶.png","咽气.png","内伤.png","喷血.png","吐血倒地.png","扇耳光.png","中刀.png","中枪.png"],
+<div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
   app_id: 'QceXwUlpHvhfGk6tgb7gcBA7-MdYXbMMI',
   app_key: '7uMcC39nnyhCXvDc4u0jCJa6',
-    });
-</script>  
+        })
+    </script>
         <div class="comment">
           
         </div>
