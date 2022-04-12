@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-     <meta http-equiv="content-type" content="text/html; charset=utf-8"><script src='//unpkg.com/valine/dist/Valine.min.js'></script>
- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+     <meta http-equiv="content-type" content="text/html; charset=utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta content="yes" name="apple-mobile-web-app-capable" />
   <meta content="black" name="apple-mobile-web-app-status-bar-style" />
   <meta name="referrer" content="never">
@@ -118,14 +117,14 @@
 <figure data-type="image" tabindex="1"><img src="https://Payact.github.io/post-images/1649653790411.png" alt="" loading="lazy"></figure>
 
           
-<div id="vcomments"></div>
-    <script>
-        new Valine({
-            el: '#vcomments',
-  app_id: 'QceXwUlpHvhfGk6tgb7gcBA7-MdYXbMMI',
-  app_key: '7uMcC39nnyhCXvDc4u0jCJa6',
-        })
-    </script>
+<script src="//cdn.jsdelivr.net/npm/@waline/client"></script>
+<div id="waline"></div>
+  <script>
+    Waline({
+      el: '#waline',
+      serverURL: 'https://waline-rk8210i2y-payact.vercel.app/',
+    });
+  </script>
         <div class="comment">
           
         </div>
