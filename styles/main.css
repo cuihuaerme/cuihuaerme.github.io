@@ -1,7 +1,7 @@
 body {
   font-size: 15px;
   color: #333;
-  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'PingFang SC', 'Microsoft YaHei', 'Source Han Sans SC', 'Noto Sans CJK SC', 'WenQuanYi Micro Hei', sans-serif;
+  font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'PingFang SC', 'Microsoft YaHei', 'Source Han Sans SC', 'Noto Sans CJK SC', 'WenQuanYi Micro Hei', sans-serif;
 }
 p.next-post {
   border-left: 4px solid #333;
@@ -26,7 +26,7 @@ h6 {
   font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'PingFang SC', 'Microsoft YaHei', 'Source Han Sans SC', 'Noto Sans CJK SC', 'WenQuanYi Micro Hei', sans-serif;
 }
 a {
-  color: #212529;
+  color: #333;
   transition: all 0.2s;
 }
 a:focus,
@@ -134,14 +134,14 @@ img::-moz-selection {
     background-color: rgba(255, 255, 255, 0.9);
   }
   #mainNav.is-fixed .navbar-brand {
-    color: #212529;
+    color: #333;
   }
   #mainNav.is-fixed .navbar-brand:focus,
   #mainNav.is-fixed .navbar-brand:hover {
     color: #0085a1;
   }
   #mainNav.is-fixed .navbar-nav > li.nav-item > a {
-    color: #212529;
+    color: #333;
   }
   #mainNav.is-fixed .navbar-nav > li.nav-item > a:focus,
   #mainNav.is-fixed .navbar-nav > li.nav-item > a:hover {
@@ -165,7 +165,7 @@ header.masthead .overlay {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: #212529;
+  background-color: #333;
   opacity: 0.5;
 }
 header.masthead .page-heading,
@@ -334,7 +334,7 @@ footer .list-inline {
 }
 footer .copyright {
   font-size: 14px;
-  margin-top: 30px;
+  margin-top: 4px;
   text-align: center;
 }
 .btn {
