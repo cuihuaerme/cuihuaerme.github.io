@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Payact.github.io</id>
     <title>Cuihuaer</title>
-    <updated>2022-04-13T13:09:37.883Z</updated>
+    <updated>2022-04-13T23:20:20.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Payact.github.io"/>
     <link rel="self" href="https://Payact.github.io/atom.xml"/>
@@ -54,8 +54,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[谎言]]></title>
-        <id>https://Payact.github.io/post/shi-yi-yue/</id>
-        <link href="https://Payact.github.io/post/shi-yi-yue/">
+        <id>https://Payact.github.io/post/huang-yan/</id>
+        <link href="https://Payact.github.io/post/huang-yan/">
         </link>
         <updated>2021-11-25T13:30:07.000Z</updated>
         <content type="html"><![CDATA[<p> </p>
@@ -93,8 +93,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[人老了以后，最大的好处就是……]]></title>
-        <id>https://Payact.github.io/post/shi-yue/</id>
-        <link href="https://Payact.github.io/post/shi-yue/">
+        <id>https://Payact.github.io/post/ren-lao-le-yi-hou/</id>
+        <link href="https://Payact.github.io/post/ren-lao-le-yi-hou/">
         </link>
         <updated>2021-10-20T04:59:09.000Z</updated>
         <content type="html"><![CDATA[<p> </p>
