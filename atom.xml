@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://Payact.github.io</id>
     <title>Cuihuaer</title>
-    <updated>2022-04-16T07:47:29.484Z</updated>
+    <updated>2022-04-16T07:49:48.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <link rel="alternate" href="https://Payact.github.io"/>
+    <link rel="self" href="https://Payact.github.io/atom.xml"/>
+    <logo>https://Payact.github.io/images/avatar.png</logo>
+    <icon>https://Payact.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Cuihuaer</rights>
     <entry>
         <title type="html"><![CDATA[他既是上帝也是魔鬼]]></title>
-        <id>http://localhost:4000/post/Demian/</id>
-        <link href="http://localhost:4000/post/Demian/">
+        <id>https://Payact.github.io/post/Demian/</id>
+        <link href="https://Payact.github.io/post/Demian/">
         </link>
         <updated>2022-04-12T11:24:30.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -33,13 +33,13 @@
 “我对神鬼一无所知，我生活在自己的梦里。”<br>
  </p>
 <center>
-<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1649919312842.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://Payact.github.io/post-images/1649919312842.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[三段沉默]]></title>
-        <id>http://localhost:4000/post/san-duan-chen-mo/</id>
-        <link href="http://localhost:4000/post/san-duan-chen-mo/">
+        <id>https://Payact.github.io/post/san-duan-chen-mo/</id>
+        <link href="https://Payact.github.io/post/san-duan-chen-mo/">
         </link>
         <updated>2022-03-31T02:12:06.000Z</updated>
         <content type="html"><![CDATA[<p>▪ 读到《时间与水》，联想起另外两节来自不同时空的诗。挺有意思的，拼在一起，像是一组场景画，静谧春光中的心有灵犀，盛夏里漏了一拍的心跳，多年以后冬日街头陌生又熟悉的相视，看见鼻子里呼出的白气。沉默并非总是毫无波澜，有时或许是因为心太近，连呼吸也不肯打搅。诗人们真是有慧眼，总是能完成如此巧妙精微的捕捉。</p>
@@ -60,24 +60,24 @@
 只是，作为消遣，对我来说它依然是不可或缺的一部分。表达，思想，情感，偏偏是它们，是我以为这世上的真正真实，甚至是一切到头最后仅剩下的东西。它们动人而浪漫。是要和浪漫相伴到宇宙尽头的。<br>
  </p>
 <center>
-<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1649924010528.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://Payact.github.io/post-images/1649924010528.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[今夜梦里航行的船只]]></title>
-        <id>http://localhost:4000/post/jin-ye-meng-li-hang-xing-de-chuan-zhi/</id>
-        <link href="http://localhost:4000/post/jin-ye-meng-li-hang-xing-de-chuan-zhi/">
+        <id>https://Payact.github.io/post/jin-ye-meng-li-hang-xing-de-chuan-zhi/</id>
+        <link href="https://Payact.github.io/post/jin-ye-meng-li-hang-xing-de-chuan-zhi/">
         </link>
         <updated>2021-12-25T12:35:47.000Z</updated>
         <content type="html"><![CDATA[<p> </p>
 <center>
-<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1649652517720.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://Payact.github.io/post-images/1649652517720.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[房不塌了：GitHub Desktop & Waline]]></title>
-        <id>http://localhost:4000/post/fang-bu-ta-liao-github-desktop-and-waline/</id>
-        <link href="http://localhost:4000/post/fang-bu-ta-liao-github-desktop-and-waline/">
+        <id>https://Payact.github.io/post/fang-bu-ta-liao-github-desktop-and-waline/</id>
+        <link href="https://Payact.github.io/post/fang-bu-ta-liao-github-desktop-and-waline/">
         </link>
         <updated>2021-12-12T02:29:10.000Z</updated>
         <content type="html"><![CDATA[<p>▪ 房又塌了， 网站又出问题了。GitHub同步有问题，好那换成Coding吧。Coding不支持静态网站托管了，那就另外挪到腾讯云吧。什么，托管在腾讯云另外绑定域名的话是得有备案的才行，这后缀根本就不能备案啊？评论区呢？我的评论区怎么又不见了？Leancloud 又又又出问题了？本来Valine就半残不残的了……<br>
@@ -91,13 +91,13 @@ AUTHER_EMAIL别漏了填，不然首次评论就收不到邮件提醒了。别�
 希望能坚持得久一点，不想再换成什么WValine，WWaline了。<br>
  </p>
 <center>
-<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1649920078278.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://Payact.github.io/post-images/1649920078278.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[谎言]]></title>
-        <id>http://localhost:4000/post/bo-pu-yu-ling-guang-xiao-shi/</id>
-        <link href="http://localhost:4000/post/bo-pu-yu-ling-guang-xiao-shi/">
+        <id>https://Payact.github.io/post/bo-pu-yu-ling-guang-xiao-shi/</id>
+        <link href="https://Payact.github.io/post/bo-pu-yu-ling-guang-xiao-shi/">
         </link>
         <updated>2021-11-28T13:30:07.000Z</updated>
         <content type="html"><![CDATA[<p>▪ 谎言可以有几种方式？<br>
@@ -120,13 +120,13 @@ AUTHER_EMAIL别漏了填，不然首次评论就收不到邮件提醒了。别�
 原来人物有血有肉是很高的评价了。<br>
  </p>
 <center>
-<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1649922682220.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://Payact.github.io/post-images/1649922682220.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[人老了的好处]]></title>
-        <id>http://localhost:4000/post/ren-lao-le-de-hao-chu/</id>
-        <link href="http://localhost:4000/post/ren-lao-le-de-hao-chu/">
+        <id>https://Payact.github.io/post/ren-lao-le-de-hao-chu/</id>
+        <link href="https://Payact.github.io/post/ren-lao-le-de-hao-chu/">
         </link>
         <updated>2021-11-06T12:59:09.000Z</updated>
         <content type="html"><![CDATA[<p>距离拔智齿拔得半边舌头麻没有味觉已经快三个月了。</p>
@@ -136,13 +136,13 @@ AUTHER_EMAIL别漏了填，不然首次评论就收不到邮件提醒了。别�
 <p>不过，别做白日梦啦，事实的真相应该是，将来老去的从容，是历经无数无数这样的失去这样的心痛之后的习惯和麻木。包括人与事。<br>
  </p>
 <center>
-<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1650087456433.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://Payact.github.io/post-images/1650087456433.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[服饰语言]]></title>
-        <id>http://localhost:4000/post/fu-shi-yu-yan/</id>
-        <link href="http://localhost:4000/post/fu-shi-yu-yan/">
+        <id>https://Payact.github.io/post/fu-shi-yu-yan/</id>
+        <link href="https://Payact.github.io/post/fu-shi-yu-yan/">
         </link>
         <updated>2021-10-30T12:49:50.000Z</updated>
         <content type="html"><![CDATA[<p>服饰是一种纯粹的自我表达语言。从语言的意义上而言，它极尽温和，没有任何指向性，攻击性，只是等待过路人的解读。</p>
@@ -153,13 +153,13 @@ AUTHER_EMAIL别漏了填，不然首次评论就收不到邮件提醒了。别�
 <p>不过，日常生活中，男性的服饰语言好像就没有那么丰富，也许对于男性来说，是舒服就好，一切尽在不言中吧。<br>
  </p>
 <center>
-<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1649924443969.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://Payact.github.io/post-images/1649924443969.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[入秋]]></title>
-        <id>http://localhost:4000/post/ru-qiu/</id>
-        <link href="http://localhost:4000/post/ru-qiu/">
+        <id>https://Payact.github.io/post/ru-qiu/</id>
+        <link href="https://Payact.github.io/post/ru-qiu/">
         </link>
         <updated>2021-10-21T11:26:36.000Z</updated>
         <content type="html"><![CDATA[<p>▪ 初秋清晨的空气让人动心。温度略低于鼻腔的清冷，夹带着若有若无的桂花香，疏离又得体。让人沉醉。只是呼吸，一口一口地呼吸感受，在窗前站很久。夏日的蝉鸣，热闹散去，各色气息声响都散去了。世界静了。<br>
@@ -170,13 +170,13 @@ AUTHER_EMAIL别漏了填，不然首次评论就收不到邮件提醒了。别�
 <p>▪ 不开心不开心不开心。<br>
  </p>
 <center>
-<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1649649127459.jpeg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://Payact.github.io/post-images/1649649127459.jpeg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[关于科幻]]></title>
-        <id>http://localhost:4000/post/jiu-yue/</id>
-        <link href="http://localhost:4000/post/jiu-yue/">
+        <id>https://Payact.github.io/post/jiu-yue/</id>
+        <link href="https://Payact.github.io/post/jiu-yue/">
         </link>
         <updated>2021-09-28T11:15:51.000Z</updated>
         <content type="html"><![CDATA[<p>The Girlfriend Experience 第三季出了，豆瓣评分并不高，可能是和预期差得有些大吧，哈哈。毕竟还是第一季的类型更受欢迎一些。</p>
@@ -198,8 +198,8 @@ AUTHER_EMAIL别漏了填，不然首次评论就收不到邮件提醒了。别�
     </entry>
     <entry>
         <title type="html"><![CDATA[“原生家庭”]]></title>
-        <id>http://localhost:4000/post/yuan-sheng-jia-ting/</id>
-        <link href="http://localhost:4000/post/yuan-sheng-jia-ting/">
+        <id>https://Payact.github.io/post/yuan-sheng-jia-ting/</id>
+        <link href="https://Payact.github.io/post/yuan-sheng-jia-ting/">
         </link>
         <updated>2021-09-12T03:23:19.000Z</updated>
         <content type="html"><![CDATA[<p>听朋友说原生家庭如何，伤害如何缺陷又如何如何。</p>
